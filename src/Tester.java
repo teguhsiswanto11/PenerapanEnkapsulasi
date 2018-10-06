@@ -17,5 +17,6 @@ public class Tester {
         System.out.println("Keliling Persegi Panjang = "+ppanjang.hitungKeliling());
         System.out.println("Luas Persegi Panjang = "+ppanjang.hitungLuas());
 
+        System.out.println("\n Developed by: Teguh Siswanto");
     }
 }
